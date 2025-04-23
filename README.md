@@ -14,3 +14,11 @@ cd <ชื่อโฟลเดอร์>
 ```bash
 git clone https://github.com/Phattarawut/MovieShop-react.git
 ```
+
+หลังจาก Clone เสร็จ ให้ใช้คำสั่งตามลำดับเพื่อ Run:
+```bash
+cd MovieShop-react
+npm install
+npm start
+```
+
