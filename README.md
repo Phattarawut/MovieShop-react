@@ -12,3 +12,7 @@
 
 ```bash
 cd <ชื่อโฟลเดอร์>
+
+## ⬇️ Clone โปรเจกต์จาก GitHub
+```bash
+git clone https://github.com/Phattarawut/MovieShop-react.git
