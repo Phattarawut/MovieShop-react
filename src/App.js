@@ -16,7 +16,7 @@ function App() {
     }
   }
 
-  const keyApi = '633a491dc168935e817590a2edd64f8d'
+  const keyApi = 'Get your keyapi in themoviedb'
   const [word, setword] = useState("")
   const [movies, setMovies] = useState([])
   const [cart, setCart] = useState(getLocalCart)
